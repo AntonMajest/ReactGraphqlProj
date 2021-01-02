@@ -1,0 +1,1 @@
+Project using MongoDB, Express, Node, React, GraphQL, Node
